@@ -1,5 +1,5 @@
 # FaceExperience_mediapipe
-mediapipeランドマークの座標csvから表情識別する
+mediapipeランドマークの座標csvから深層学習で表情識別する／アプリ開発
 
 ## app
 streamlitを使った表情識別Webアプリ
